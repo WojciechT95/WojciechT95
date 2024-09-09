@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Wojciech Trybus
 - 👀 I’m interested in changing my job to a data analyst position
 - 🌱 I’m currently improving my data analysis skills using tools such as Excel, SQL and Power VBI.In the near future I also plan to develop my data analysis skills using Python.
-- I would like to invite you to take a look at my data analyst portfolio :D
+- I would like to invite you to take a look at my data analyst portfolio :)
